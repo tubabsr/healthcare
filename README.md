@@ -315,4 +315,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 **################Content Belongs to their Original User################
 
 
+Installation Guide ::
+#  git clone https://github.com/singhgauravlinux-coder/healthcare
+
+#  cd healthcare
+
+#  docker compose up --build -d
+
+# Dependencies 
+
+docker , docker compose , maven , git
+
+
 
